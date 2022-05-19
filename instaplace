@@ -175,3 +175,63 @@ local ohString2 = "Candy Bar"
 local ohCFrame3 = CFrame.new(-19.3264751, 2.99744725, -26.9455662, -4.37113883e-08, 0, 1, 0, 1, 0, -1, 0, -4.37113883e-08)
 
 game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "PlaceProduct"
+local ohString2 = "Bread Bun"
+local ohCFrame3 = CFrame.new(-29.2678299, 0.797447324, -25.08671, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "PlaceProduct"
+local ohString2 = "Bread Bun"
+local ohCFrame3 = CFrame.new(-28.2840366, 0.797447324, -25.08671, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "PlaceProduct"
+local ohString2 = "Bread Bun"
+local ohCFrame3 = CFrame.new(-29.2678299, 0.797447324, -24.1029186, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "PlaceProduct"
+local ohString2 = "Bread Bun"
+local ohCFrame3 = CFrame.new(-28.2840366, 0.797447324, -24.1029186, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "PlaceProduct"
+local ohString2 = "Bread Bun"
+local ohCFrame3 = CFrame.new(-29.2678299, 0.797447324, -23.1191254, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "PlaceProduct"
+local ohString2 = "Bread Bun"
+local ohCFrame3 = CFrame.new(-28.2840366, 0.797447324, -23.1191254, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "PlaceProduct"
+local ohString2 = "Bread Bun"
+local ohCFrame3 = CFrame.new(-29.2678299, 0.797447324, -22.135334, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "PlaceProduct"
+local ohString2 = "Bread Bun"
+local ohCFrame3 = CFrame.new(-28.2840366, 0.797447324, -22.135334, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "PlaceProduct"
+local ohString2 = "Bread Bun"
+local ohCFrame3 = CFrame.new(-29.2678299, 0.797447324, -21.1515408, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "PlaceProduct"
+local ohString2 = "Bread Bun"
+local ohCFrame3 = CFrame.new(-28.2840366, 0.797447324, -21.1515408, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
